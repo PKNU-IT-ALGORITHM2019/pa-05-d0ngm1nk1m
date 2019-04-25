@@ -1,4 +1,4 @@
-package Algorithm; //꺄루
+package Algorithm;
 
 import java.io.File;
 import java.io.FileNotFoundException;
